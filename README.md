@@ -14,7 +14,7 @@ Main file: **path_finding.py**
 
 ---
 
-OBJECTIVE: Build a path finding using A* (astar) search algorithm and visualize it in a GUI.
+OBJECTIVE: Build a path finding using A* (astar) search algorithm and visualize it on a GUI.
 
 ---
 
